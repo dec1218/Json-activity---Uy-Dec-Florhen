@@ -1,0 +1,48 @@
+body {
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  font-size: larger;
+  color: solid black;
+}
+
+h1 {
+  border: 20px;
+  padding: 20px;
+  border-color: black;
+  background-color: #3532321e;
+  width: 820px;
+  border-radius: 10px;
+  text-align: center;
+  margin-left: 328px;
+}
+#jsonOutput {
+  margin-top: 28px;
+  margin-left: 517px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  width: 475px;
+  height: 98px;
+  color: black;
+}
+
+h2 {
+  margin-left: 120px;
+}
+form#myForm {
+  width: 351px;
+  border: 72px;
+  border-color: black;
+  margin-left: 597px;
+  background-color: rgba(163, 160, 155, 0.212);
+  height: 257px;
+  text-align: center;
+  margin-top: 49px;
+  border-radius: 10px;
+}
+input#name {
+  margin-top: 22px;
+}
